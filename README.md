@@ -1,4 +1,4 @@
 # Google Place API Example
 Google Place API Example
 
->**Note:** Please update yout API Key before actual used. 
+>**Note:** Please update your Google API Key 
